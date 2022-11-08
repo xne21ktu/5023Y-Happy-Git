@@ -1,6 +1,6 @@
 ---
 title: "Some cool animal facts"
-author: "Philip Leftwich"
+author: "Jim Massey"
 output: html_document
 ---
 
@@ -56,6 +56,15 @@ knitr::opts_chunk$set(echo = TRUE)
 - Can rotate their hind feet 180 degrees to climb better
 - They are not endangered, just very elusive
 - Closely related to raccoons
+
+#### Baby Yoda
+
+![Photo: Baby Yoda](Grogu.jpg)
+
+##### Baby Yoda fun facts:
+- Also known as 'The Child'
+- likes unfertilized frog eggs & control knobs
+- strong with the force
 
 ###
 
